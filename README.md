@@ -1,15 +1,16 @@
 # Data Scientist
-- Dynamic & Results driven Data Scientist & Aircraft system analyst with over 14 years of diversified experience.  5+ years of specialization in developing physics based and machine learning models with innovative data science solutions. Proven track record of leading cross-functional teams, driving innovation, and delivering impactful data science solutions. 
+- Dynamic & Results driven Data Scientist & Aircraft system analyst with over 14 years of diversified experience.  5+ years of specialization in developing physics based and machine learning models with innovative data science solutions. Proven track record of leading 
+  cross-functional teams, driving innovation, and delivering impactful data science solutions. 
 
 ### Proficiency
--Tools             :  Databricks, Azure ML Studio,  Azure Devops | Cloud : Azure, AWS
--Programming       :  Python - Pandas, Numpy,  Pyspark, SQL, VBA
--Data Science      :  Data Mining & Transformation, Data Visualization, Time Series analysis,  Machine Learning, Deep Learning, Predictive Forecasting & NLP
--Visualization     :  Power Bi, Matplotlib, Plotly, Seaborn
--Domain            :  Aircraft Systems
+- Tools             :  Databricks, Azure ML Studio,  Azure Devops | Cloud : Azure, AWS
+- Programming       :  Python - Pandas, Numpy,  Pyspark, SQL, VBA
+- Data Science      :  Data Mining & Transformation, Data Visualization, Time Series analysis,  Machine Learning, Deep Learning, Predictive Forecasting & NLP
+- Visualization     :  Power Bi, Matplotlib, Plotly, Seaborn
+- Domain            :  Aircraft Systems
 
 ### Education
--ME in Aeronautical Engineering, Madras Institute of Technology, MIT Chennai, 2011, CGPA : 8.5
+- ME in Aeronautical Engineering, Madras Institute of Technology, MIT Chennai, 2011, CGPA : 8.5
 
 ### Work Experience
 - Leading & mentoring data science team to effectively deliver comprehensive solutions with PHM that merge physics-based and machine learning strategies,  which  strategically alleviate pain points for our airline customers on AOG & unscheduled maintenance.
